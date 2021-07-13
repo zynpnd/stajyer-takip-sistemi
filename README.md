@@ -10,5 +10,14 @@ Java programlama dili ile yazılmış bir stajyer takip sistemidir.
 
 ![alt text](image.png)
 
+-->Kullanıcı yeni öğrenci ekleyebilir, düzenleyebilir, öğrencinin staj bilgilerini düzenleyebilir, öğrenciye proje ekleyebilir.
+
+--> Yeni proje ekleyebilir,silebilir ve düzenleyebiilir.
+
+--> Kullanıcı sisteme yeni kullanıcı ekleyebilir
+
+-->Kullanıcı stahyerlerin gelip gelmediğini kontrol edebilir ve devam kontrolü yapabilir.
+
+-->Öğrenciye ait istediği tüm bilgileri raporlayabilr.
 
 
